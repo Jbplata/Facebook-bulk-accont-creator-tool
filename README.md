@@ -9,7 +9,7 @@ Creat accounts with any email or tempmail or phone vérification
 
 ✔️no seleium request
 
-➡️# contact me
+# contact me
 https://t.me/johnreal01
 
 
